@@ -2,6 +2,10 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "crud-app-backend", "crud-app-backend\crud-app-backend.csproj", "{F3176EE0-C261-4137-A4C1-C6BEFEB0F1A1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Models", "Models\Models.csproj", "{21367D87-96F0-4933-8F2D-C3E46449141F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Services", "Services\Services.csproj", "{4E9EE828-FF60-4B6F-9FB8-189C8B335B6A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +16,13 @@ Global
 		{F3176EE0-C261-4137-A4C1-C6BEFEB0F1A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F3176EE0-C261-4137-A4C1-C6BEFEB0F1A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F3176EE0-C261-4137-A4C1-C6BEFEB0F1A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21367D87-96F0-4933-8F2D-C3E46449141F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21367D87-96F0-4933-8F2D-C3E46449141F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21367D87-96F0-4933-8F2D-C3E46449141F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21367D87-96F0-4933-8F2D-C3E46449141F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E9EE828-FF60-4B6F-9FB8-189C8B335B6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E9EE828-FF60-4B6F-9FB8-189C8B335B6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E9EE828-FF60-4B6F-9FB8-189C8B335B6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E9EE828-FF60-4B6F-9FB8-189C8B335B6A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
